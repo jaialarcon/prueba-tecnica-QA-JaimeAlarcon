@@ -1,0 +1,10 @@
+E2E Testing:
+
+Es de gran ayuda conocer como inspeccionar la estructura e identificar los selectores css de elementos de plataformas y apps web. Debido a que no siempre el acceso a los elementos es superficial , se encuentran anidados 
+o toda la estructura se basada en divs como el caso de la plataforma que testeamos en este ejercicio 
+Es importante validar la existencia o confirmar condiciones necesarias para reproducir o testear un escenario en especifico. En este caso poder identificar el modal previo al llenado de datos y confirmación de la compra.
+
+Api testing 
+
+Antes realizar el testing de un api es de gran ayuda poder conocer samples de responses de casos exitosos y casos fallidos. De esta manera podemos determinar cuales son los más comunes o los que incluso la misma documentación
+puede tener descritos e implementados. De esta manera poder determinar por cada servicio, los diversos escenarios que debemos tenere como esperados, deseados o no deseados pero controlados en todo el proceso de nuestro testing.
